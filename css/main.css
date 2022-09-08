@@ -22,12 +22,24 @@ html {
 body {
   text-align: center;
   width: 414px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .logo {
   padding-top: 14px;
   padding-bottom: 12px;
   background-color: #E7E7DB;
+}
+
+h1 {
+  padding-top: 25px;
+  padding-bottom: 22px;
+  padding-left: 75px;
+  padding-right: 76px;
+}
+
+.header-color {
+  color: red;
 }
 a {
   color: inherit;
