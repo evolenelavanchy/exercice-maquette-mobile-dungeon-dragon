@@ -45,8 +45,16 @@ body {
   color: red;
 }
 
-.header-color {
+hr {
   color: red;
+}
+
+.strange-things-conti {
+  padding-top: 22px;
+  padding-left: 37px;
+  padding-right: 38px;
+  padding-bottom: 38px;
+  font-size: 21px;
 }
 a {
   color: inherit;
