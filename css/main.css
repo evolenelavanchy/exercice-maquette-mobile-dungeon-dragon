@@ -16,26 +16,33 @@
 }
 
 html {
-
 }
 
 body {
   text-align: center;
-  width: 414px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
+.site {
+  width: 414px;
+  margin: 0 auto;
+}
 .logo {
   padding-top: 14px;
   padding-bottom: 12px;
-  background-color: #E7E7DB;
+  background-color: #e7e7db;
 }
 
-h1 {
+.title {
   padding-top: 25px;
   padding-bottom: 22px;
   padding-left: 75px;
   padding-right: 76px;
+  font-size: 36px;
+}
+
+.text-color-red {
+  color: red;
 }
 
 .header-color {
